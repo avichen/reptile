@@ -1,2 +1,2 @@
 # reptile
-a crawer for JD by golang
+a crawer by golang
